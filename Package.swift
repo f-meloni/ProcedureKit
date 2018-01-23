@@ -24,11 +24,6 @@ let package = Package(
             name: "ProcedureKitNetwork",
             dependencies: ["ProcedureKit"]),
 
-        /** Test Support library */
-        Target(
-            name: "TestingProcedureKit",
-            dependencies: ["ProcedureKit"]),
-
         /** Test executables */
         Target(
             name: "ProcedureKitTests",
