@@ -28,6 +28,7 @@ let package = Package(
     exclude: [
         "Sources/ProcedureKitMobile",
         "Sources/ProcedureKitTV",
+        "Sources/TestingProcedureKit",
         "Tests/ProcedureKitMobileTests",
         "Tests/ProcedureKitTVTests",
     ]
